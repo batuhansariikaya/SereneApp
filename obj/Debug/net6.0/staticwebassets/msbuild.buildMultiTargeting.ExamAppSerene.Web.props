@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ExamAppSerene.Web.props" />
+</Project>
